@@ -1,0 +1,111 @@
+{
+ "alignment": {
+  "gpt2-zh/random": {
+   "units": 200,
+   "content_tokens": 200,
+   "tokens_per_unit": {
+    "1": 200
+   },
+   "units_per_token": {
+    "1": 200
+   }
+  },
+  "gpt2-zh/phrase": {
+   "units": 100,
+   "content_tokens": 100,
+   "tokens_per_unit": {
+    "1": 100
+   },
+   "units_per_token": {
+    "1": 100
+   }
+  },
+  "gpt2-zh/phrase+sentence": {
+   "units": 200,
+   "content_tokens": 200,
+   "tokens_per_unit": {
+    "1": 200
+   },
+   "units_per_token": {
+    "1": 200
+   }
+  },
+  "gpt2-zh/reversed": {
+   "units": 200,
+   "content_tokens": 200,
+   "tokens_per_unit": {
+    "1": 200
+   },
+   "units_per_token": {
+    "1": 200
+   }
+  },
+  "gpt2-zh/english": {
+   "units": 240,
+   "content_tokens": 468,
+   "tokens_per_unit": {
+    "1": 59,
+    "2": 134,
+    "3": 47
+   },
+   "units_per_token": {
+    "1": 468
+   }
+  },
+  "rwkv7/random": {
+   "units": 200,
+   "content_tokens": 200,
+   "tokens_per_unit": {
+    "1": 200
+   },
+   "units_per_token": {
+    "1": 200
+   }
+  },
+  "rwkv7/phrase": {
+   "units": 100,
+   "content_tokens": 100,
+   "tokens_per_unit": {
+    "1": 100
+   },
+   "units_per_token": {
+    "1": 100
+   }
+  },
+  "rwkv7/phrase+sentence": {
+   "units": 200,
+   "content_tokens": 200,
+   "tokens_per_unit": {
+    "1": 200
+   },
+   "units_per_token": {
+    "1": 200
+   }
+  },
+  "rwkv7/reversed": {
+   "units": 200,
+   "content_tokens": 200,
+   "tokens_per_unit": {
+    "1": 200
+   },
+   "units_per_token": {
+    "1": 200
+   }
+  },
+  "rwkv7/english": {
+   "units": 240,
+   "content_tokens": 256,
+   "tokens_per_unit": {
+    "1": 224,
+    "2": 16
+   },
+   "units_per_token": {
+    "1": 256
+   }
+  }
+ },
+ "rwkv_vocab": {
+  "vocab_entries": 65529,
+  "entries_with_2plus_cjk": 0
+ }
+}

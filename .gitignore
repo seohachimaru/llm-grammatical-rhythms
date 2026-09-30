@@ -1,0 +1,14 @@
+# Ding et al.'s corpora are not redistributed; see data/README.md
+data/*.txt
+!data/Chinese-random.txt
+
+# Notebook outputs live in Drive, not here
+output/
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Analysis outputs regenerate from a run
+analysis/figures/
+analysis/norm_ablation_results.json
